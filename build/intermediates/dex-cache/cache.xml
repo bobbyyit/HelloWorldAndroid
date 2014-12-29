@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bobbyyit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7065c2fd8473a15c322a4eba6620cfcc3b4bf984.jar" />
+    </item>
+    <item
+        jar="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/debug/classes-f50ea2828062d9796a661460f84b280601ea4e7a.jar" />
+    </item>
+    <item
+        jar="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-179545e1a65c0f94b06b28e22c55f5b80bd31a94.jar" />
+    </item>
+    <item
+        jar="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/bobbyyit/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/debug/classes-dd0a71b2aae4bdbb5a331bd68d5ae3c3c2b53859.jar" />
+    </item>
+
+</items>
